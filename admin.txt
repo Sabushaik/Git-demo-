@@ -2,6 +2,5 @@ change roles
 assign tasks 
 add users remove users  hey dude
 handling the database 
-goo to know 
 changes 1 
 changes 2 hello sabu 
