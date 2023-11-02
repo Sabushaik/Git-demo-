@@ -1,2 +1,5 @@
 change roles 
 assign tasks 
+add users remove users 
+handling the database 
+goo to know 
