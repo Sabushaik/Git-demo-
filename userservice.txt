@@ -1,3 +1,4 @@
 hey user service 
 
 hello dudde i am here 
+user avathar create users and info to the users 
